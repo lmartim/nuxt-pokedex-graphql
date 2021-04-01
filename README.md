@@ -25,3 +25,5 @@ Project created to test NuxtJS and GraphQL/Apollo usability.
 To test this project, a Apollo Gateway was made and is avaiable at [https://pokeapi-graphql-gateway.herokuapp.com/graphql](https://pokeapi-graphql-gateway.herokuapp.com/graphql).
 
 The index page brings a list with the first 16 Pokémon and the page `/pokemon/{id}` brings a specific Pokémon data.
+
+[The gateway repo can be found at this link](https://github.com/lmartim/pokeapi-graphql-gateway)
