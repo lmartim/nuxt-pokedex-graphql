@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-graphql",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.1-rc.5",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/tailwindcss": "^3.4.2",
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "autoprefixer": "9",
+    "core-js": "^3.9.1",
+    "fibers": "^5.0.0",
+    "nuxt": "^2.15.3",
+    "postcss": "7",
+    "sass": "^1.32.2",
+    "sass-loader": "^10.1.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vuex-persistedstate": "^4.0.0-beta.1"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,6 @@
+query pokemonList {
+  pokemonList {
+    name
+    url
+  }
+}

@@ -1,0 +1,17 @@
+query pokemon($id: ID!) {
+  pokemon(id: $id) {
+    id
+    name
+    height
+    moves {
+      move {
+        name
+      }
+    }
+    types {
+      type {
+        name
+      }
+    }
+  }
+}
